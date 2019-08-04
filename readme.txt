@@ -5,3 +5,4 @@ git tracks changes of files.
 creat a new branch quickly and simple.
 git add merge.
 git add merge with ff. git free.
+git bug.
