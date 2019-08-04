@@ -4,4 +4,4 @@ git has a mutable stage called index
 git tracks changes of files.
 creat a new branch quickly and simple.
 git add merge.
-git add merge with ff.
+git add merge with ff. git free.
