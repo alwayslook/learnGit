@@ -2,3 +2,4 @@ test git reset in work, stage, head
 append line1.
 append line2.
 append line3.
+append line4.
